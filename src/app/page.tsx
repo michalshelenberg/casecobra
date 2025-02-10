@@ -74,8 +74,7 @@ export default function Home() {
                     <Star className="h-4 w-4 text-green-600 fill-green-600" />
                   </div>
 
-                  {/* TODO: Add missing classNames */}
-                  <p className="">
+                  <p>
                     <span className="font-semibold">1.250</span> happy customers
                   </p>
                 </div>
